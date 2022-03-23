@@ -5,7 +5,7 @@ So you're ready to start your career in coding eh? It's gonna be fun. And exhaus
 Congratulations for starting!
 
 
-## Syllabus
+## Syllabus: Intro to Python (7 weeks)
 
 Here is the syllabus:
 
@@ -36,3 +36,7 @@ File Handling
 
 ### Week 7
 Packages and PIP
+
+## Syllabus: Intro to SQL
+
+/# TODO
