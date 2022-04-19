@@ -10,7 +10,7 @@ Congratulations for starting!
 
 👋 See you there! We'll guide you during the meetup or with literally ANY question you have about coding. We like to help each other get unstuck.
 
-Send me your email address in the #solvestack-bootcamp channel in our Solvestack slack. I'll add you to the Google group so you can see the Collab Python notebooks.
+Join the #solvestack-bootcamp channel in our Solvestack slack.
 
 ## Get Access to starting materials
 
