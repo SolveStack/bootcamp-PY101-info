@@ -34,7 +34,7 @@ Open your terminal, command prompt, or Powershell and run `python` or `python3`.
 
 Here is the syllabus:
 
-### Week 1
+### Lesson 1
 Intro:
 
 * What is Programming?
@@ -43,21 +43,21 @@ Intro:
 * Operators
 * Comments
 
-### Week 2
+### Lesson 2
 
 Conditionals and loops
 
-### Week 3
+### Lesson 3
 Working with Collections, Part 1
 
-### Week 4
+### Lesson 4
 Working with Collections, Part 2
 
-### Week 5
+### Lesson 5
 Classes
 
-### Week 6
+### Lesson 6
 File Handling
 
-### Week 7
+### Lesson 7
 Packages and PIP
