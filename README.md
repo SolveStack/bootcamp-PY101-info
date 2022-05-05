@@ -54,13 +54,15 @@ Intro:
 * Variables
 * Operators
 * Comments
+* [Homework](https://portal.solvestack.com/mod/vpl/view.php?id=2)
 
 ### Lesson 2A
 * Lesson - Conditionals
-* Homework
+* [Homeowrk](https://portal.solvestack.com/mod/vpl/view.php?id=3)
 
 ### Lesson 2B
-loops
+* Lesson - Loops
+* [Homeowrk](https://portal.solvestack.com/mod/vpl/view.php?id=3)
 
 ### Lesson 3
 Working with Collections, Part 1
