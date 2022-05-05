@@ -14,7 +14,16 @@ Join the #solvestack-bootcamp channel in our Solvestack slack.
 
 ## Get Access to starting materials
 
+Lessons:
 Navigate to the PY101 course materials: https://drive.google.com/drive/folders/1FcXSrAl7eRY-WcO7_9s9pDFNTeXXWLo3. Request access, and I will add you.
+
+Homework Assignments:
+[Solvestack Portal](https://portal.solvestack.com/course/view.php?id=2)
+
+Once I have your email address, first and last name, I will make a student account for you. Once logged in, you should be able to click on PY101 - Intro to Python and click “Enrol me in this course”. I think “Enrol” is how they spell it in Britain.
+
+/# TODO: I will have to hunt down the Timezone and Language settings lol.
+
 
 ## Install Python 3
 
@@ -34,18 +43,24 @@ Open your terminal, command prompt, or Powershell and run `python` or `python3`.
 
 Here is the syllabus:
 
-### Lesson 1
+### Lesson 1A
 Intro:
 
 * What is Programming?
 * Datatypes
+
+
+### Lesson 1B
 * Variables
 * Operators
 * Comments
 
-### Lesson 2
+### Lesson 2A
+* Lesson - Conditionals
+* Homework
 
-Conditionals and loops
+### Lesson 2B
+loops
 
 ### Lesson 3
 Working with Collections, Part 1
