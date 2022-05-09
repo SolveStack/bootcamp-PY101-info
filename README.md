@@ -44,28 +44,41 @@ Open your terminal, command prompt, or Powershell and run `python` or `python3`.
 Here is the syllabus:
 
 ### Lesson 1A
-Intro:
+[Lesson - Intro:](https://colab.research.google.com/drive/1MEOd37KxEUIRqFo9wURjAsfCrRM3kJP5?usp=sharing)
 
 * What is Programming?
 * Datatypes
+* No homework yet
 
 
 ### Lesson 1B
+
+[Lesson:](https://colab.research.google.com/drive/1ntkv6n7EQHucTGYY0UV_kltiZrrIHKtI?usp=sharing)
 * Variables
 * Operators
 * Comments
 * [Homework](https://portal.solvestack.com/mod/vpl/view.php?id=2)
 
 ### Lesson 2A
-* Lesson - Conditionals
+* [Lesson - Conditionals](https://colab.research.google.com/drive/1zAXuX0zGYYlVclX-d__8ELHTy2guWySE?usp=sharing)
 * [Homeowrk](https://portal.solvestack.com/mod/vpl/view.php?id=3)
 
 ### Lesson 2B
-* Lesson - Loops
+* [Lesson - Loops](https://colab.research.google.com/drive/1hn_4ltGXwUG6cI7nuD01AAqn0u13DUAI?usp=sharing)
 * [Homeowrk](https://portal.solvestack.com/mod/vpl/view.php?id=3)
 
-### Lesson 3
-Working with Collections, Part 1
+### Lesson 3A
+[Loesson - Intro to Collections](https://colab.research.google.com/drive/1lBeQsbTohN-W1bw9bnUDlQPNWHvCGgaQ?usp=sharing)
+* Lists
+* Slices
+* [Homework](https://portal.solvestack.com/mod/vpl/view.php?id=5)
+
+### Lesson 3B
+[Loesson - Finish Lists](https://colab.research.google.com/drive/1lBeQsbTohN-W1bw9bnUDlQPNWHvCGgaQ?usp=sharing)
+* List methods
+* Copying lists
+* Functions Intro
+* [Homework](https://portal.solvestack.com/mod/vpl/view.php?id=5)
 
 ### Lesson 4
 Working with Collections, Part 2
