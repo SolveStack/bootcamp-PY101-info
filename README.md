@@ -74,10 +74,14 @@ Here is the syllabus:
 * [Homework](https://portal.solvestack.com/mod/vpl/view.php?id=5)
 
 ### Lesson 3B
-[Loesson - Finish Lists](https://colab.research.google.com/drive/1lBeQsbTohN-W1bw9bnUDlQPNWHvCGgaQ?usp=sharing)
+[Lesson - Finish Lists](https://colab.research.google.com/drive/1lBeQsbTohN-W1bw9bnUDlQPNWHvCGgaQ?usp=sharing)
 * List methods
 * Copying lists
 * Functions Intro
+* [Homework](https://portal.solvestack.com/mod/vpl/view.php?id=5)
+
+### Lesson 4A
+[Lesson - Dictionaries](https://colab.research.google.com/drive/19tpKwxAWSewCGqhnwL3aja75jRoBMHIn?usp=sharing)
 * [Homework](https://portal.solvestack.com/mod/vpl/view.php?id=5)
 
 ### Lesson 4
