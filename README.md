@@ -82,6 +82,13 @@ Here is the syllabus:
 
 ### Lesson 4A
 [Lesson - Dictionaries](https://colab.research.google.com/drive/19tpKwxAWSewCGqhnwL3aja75jRoBMHIn?usp=sharing)
+* Review of Dictionaries
+* Add to a dictionary
+* Modify a value of a dictionary
+* Delete a key-value pair from a dictionary
+* Looping through a dictionary
+* Copy a dictionary
+* Nested dictionaries
 * [Homework](https://portal.solvestack.com/mod/vpl/view.php?id=5)
 
 ### Lesson 4
