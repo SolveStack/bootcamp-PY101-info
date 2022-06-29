@@ -94,8 +94,12 @@ Here is the syllabus:
 ### Lesson 4
 Working with Collections, Part 2
 
-### Lesson 5
-Classes
+### Lesson 5A
+Classes Intro
+
+### Lesson 5B
+* Git, Github Intro
+* Classes continued
 
 ### Lesson 6
 File Handling
