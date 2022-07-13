@@ -101,6 +101,24 @@ Classes Intro
 * Git, Github Intro
 * Classes continued
 
+### Lesson 5C
+* Prompt for user input
+* Defensive coding with try/except logic
+* Catching different kinds of exceptions
+
+### Lesson 5D
+* Learning Git
+  *  `git status` to see what changes you have currently, your branch name, etc. Use this all the time!
+  *  `git log --graph --oneline --branches` to see how your remote branches (origin/<branchname>) and your current branch align
+  *  `git add -p` to review your own code
+  *  `git add <new_file_name>.py` or `git add <folder_name>` for untracked files
+  *  `git commit` to make a commit hash and save your changes to the branch
+  *  `git push origin <branch-name>` to push your changes
+  *  `git fetch` to get branch reference (commit hash) updates
+  *  `git checkout <branch-name>` to check out from an existing branch (can be local or remote)
+  *  `git pull origin <branch-name>` to get upstream updates from the branch you're on
+  
+
 ### Lesson 6
 File Handling
 
