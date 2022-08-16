@@ -99,6 +99,7 @@ Classes Intro
 
 ### Lesson 5B
 * Git, Github Intro
+* [Install Git](https://github.com/git-guides/install-git) if you're on Windows or Linux
 * Classes continued
 
 ### Lesson 5C
