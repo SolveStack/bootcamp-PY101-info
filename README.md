@@ -29,7 +29,9 @@ Once I have your email address, first and last name, I will make a student accou
 
 The following link will give steps on how to install Python 3 on each OS type (Windows, Mac or Linux).
 
-[Install Python 3](https://installpython3.com/)
+On Windows: [Navigate to the Windows Store and click Get Button](https://apps.microsoft.com/store/detail/9P7QFQMJRFP7?hl=en-us&gl=US)
+On Mac or Linux: [Pyenv]([https://apps.microsoft.com/store/detail/9P7QFQMJRFP7?hl=en-us&gl=US](https://akrabat.com/creating-virtual-environments-with-pyenv/))
+
 
 ## Run your Python REPL
 
