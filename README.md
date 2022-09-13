@@ -30,7 +30,9 @@ Send @ana tomboulian your email address, first and last name in DM on slack and 
 
 On Windows: [Navigate to the Windows Store and click Get Button](https://apps.microsoft.com/store/detail/9P7QFQMJRFP7?hl=en-us&gl=US)
 
-On Mac or Linux: [Pyenv]([https://apps.microsoft.com/store/detail/9P7QFQMJRFP7?hl=en-us&gl=US](https://akrabat.com/creating-virtual-environments-with-pyenv/))
+On Mac: [Pyenv](https://akrabat.com/creating-virtual-environments-with-pyenv/)
+
+On Linux: [Pyenv](https://londonappdeveloper.com/install-and-configure-pyenv-on-linux/)
 
 
 ## Run your Python REPL
