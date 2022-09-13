@@ -20,7 +20,7 @@ Navigate to the PY101 course materials: https://drive.google.com/drive/folders/1
 Homework Assignments:
 [Solvestack Portal](https://portal.solvestack.com/course/view.php?id=2)
 
-Send me your email address, first and last name in DM on slack and I will make a student account for you. Once logged in, you should be able to click on PY101 - Intro to Python and click “Enrol me in this course”. I think “Enrol” is how they spell it in Britain.
+Send @ana tomboulian your email address, first and last name in DM on slack and I will make a student account for you. Once logged in, you should be able to click on PY101 - Intro to Python and click “Enrol me in this course”. I think “Enrol” is how they spell it in Britain.
 
 /# TODO: I will have to hunt down the Timezone and Language settings lol.
 
