@@ -99,9 +99,11 @@ Here is the syllabus:
 Working with Collections, Part 2
 
 ### Lesson 5A
-Classes Intro
+* [Lesson - Classes](https://colab.research.google.com/drive/1yB5g0f6-r_isJgVMBYJfNCrGSmjzH-L9?usp=sharing)
+* Classes Intro
 
 ### Lesson 5B
+* [Lesson - Classes](https://colab.research.google.com/drive/1e9cxsjkkCFMe2xEdsHhMUyGVjs2NPOi2?usp=sharing)
 * Git, Github Intro
 * [Install Git](https://github.com/git-guides/install-git) if you're on Windows or Linux
 * Classes continued
