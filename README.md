@@ -43,7 +43,7 @@ Open your terminal, command prompt, or Powershell and run `python` or `python3`.
 
 [Learn about your REPL](https://codewith.mu/en/tutorials/1.0/repl)
 
-## Syllabus: Intro to Python (7 weeks)
+## Syllabus: Intro to Python
 
 Here is the syllabus:
 
