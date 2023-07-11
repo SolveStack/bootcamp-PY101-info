@@ -146,5 +146,13 @@ Here is the syllabus:
 ### Lesson 6
 File Handling
 
+* Install a pip Package
+* Open a file for read or writing
+* Close the file
+* Dates and datetimes
+* Python Math module
+* Global Scope
+* Command Line Interface
+
 ### Lesson 7
 Packages and PIP
