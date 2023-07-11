@@ -113,7 +113,7 @@ Here is the syllabus:
 * Remove Set Items
 * Loop Sets
 * Join Sets
-* [Homework](https://portal.solvestack.com/mod/vpl/view.php?id=5)
+* No homework
 
 ### Lesson 5A
 * [Lesson - Classes](https://colab.research.google.com/drive/1yB5g0f6-r_isJgVMBYJfNCrGSmjzH-L9?usp=sharing)
