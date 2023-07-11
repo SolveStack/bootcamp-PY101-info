@@ -52,6 +52,8 @@ Here is the syllabus:
 
 * What is Programming?
 * Datatypes
+* Using the REPL
+* Using files (scripts)
 * No homework yet
 
 
