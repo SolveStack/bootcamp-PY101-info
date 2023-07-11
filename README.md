@@ -59,7 +59,7 @@ Here is the syllabus:
 
 ### Lesson 1B
 
-[Lesson:](https://colab.research.google.com/drive/1ntkv6n7EQHucTGYY0UV_kltiZrrIHKtI?usp=sharing)
+[Lesson: Variables, Operators and Comments](https://colab.research.google.com/drive/1ntkv6n7EQHucTGYY0UV_kltiZrrIHKtI?usp=sharing)
 * Variables
 * Operators
 * Comments
@@ -67,11 +67,11 @@ Here is the syllabus:
 
 ### Lesson 2A
 * [Lesson - Conditionals](https://colab.research.google.com/drive/1zAXuX0zGYYlVclX-d__8ELHTy2guWySE?usp=sharing)
-* [Homeowrk](https://portal.solvestack.com/mod/vpl/view.php?id=3)
+* [Homework](https://portal.solvestack.com/mod/vpl/view.php?id=3)
 
 ### Lesson 2B
 * [Lesson - Loops](https://colab.research.google.com/drive/1hn_4ltGXwUG6cI7nuD01AAqn0u13DUAI?usp=sharing)
-* [Homeowrk](https://portal.solvestack.com/mod/vpl/view.php?id=3)
+* [Homework](https://portal.solvestack.com/mod/vpl/view.php?id=3)
 
 ### Lesson 3A
 [Loesson - Intro to Collections](https://colab.research.google.com/drive/1lBeQsbTohN-W1bw9bnUDlQPNWHvCGgaQ?usp=sharing)
@@ -80,7 +80,7 @@ Here is the syllabus:
 * [Homework](https://portal.solvestack.com/mod/vpl/view.php?id=5)
 
 ### Lesson 3B
-[Lesson - Finish Lists](https://colab.research.google.com/drive/1lBeQsbTohN-W1bw9bnUDlQPNWHvCGgaQ?usp=sharing)
+[Lesson - Finish Lists, Intro to Functions](https://colab.research.google.com/drive/1lBeQsbTohN-W1bw9bnUDlQPNWHvCGgaQ?usp=sharing)
 * List methods
 * Copying lists
 * Functions Intro
@@ -97,8 +97,14 @@ Here is the syllabus:
 * Nested dictionaries
 * [Homework](https://portal.solvestack.com/mod/vpl/view.php?id=5)
 
-### Lesson 4
-Working with Collections, Part 2
+### Lesson 4B
+[Lesson - Tuples](https://colab.research.google.com/drive/14Fm0Z77z9l07JBESht7TwpyWpu0gwxbd?usp=sharing)
+* Accessing Tuple Items
+* Updating Tuples
+* Unpacking Tuples
+* Loop through a Tuple
+* Joining Tuples
+* [Homework](https://portal.solvestack.com/mod/vpl/view.php?id=5)
 
 ### Lesson 5A
 * [Lesson - Classes](https://colab.research.google.com/drive/1yB5g0f6-r_isJgVMBYJfNCrGSmjzH-L9?usp=sharing)
