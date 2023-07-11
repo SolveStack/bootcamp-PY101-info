@@ -98,12 +98,21 @@ Here is the syllabus:
 * [Homework](https://portal.solvestack.com/mod/vpl/view.php?id=5)
 
 ### Lesson 4B
-[Lesson - Tuples](https://colab.research.google.com/drive/14Fm0Z77z9l07JBESht7TwpyWpu0gwxbd?usp=sharing)
+[Lesson - Sets](https://colab.research.google.com/drive/14Fm0Z77z9l07JBESht7TwpyWpu0gwxbd?usp=sharing)
 * Accessing Tuple Items
 * Updating Tuples
 * Unpacking Tuples
 * Loop through a Tuple
 * Joining Tuples
+* [Homework](https://portal.solvestack.com/mod/vpl/view.php?id=5)
+
+### Lesson 4C - Optional
+[Lesson - Sets](https://colab.research.google.com/drive/1Wpsid6mk6NjQVoFRDdAp13dq4ol8quU4?usp=drive_link)
+* Access Set Items
+* Add Set Items
+* Remove Set Items
+* Loop Sets
+* Join Sets
 * [Homework](https://portal.solvestack.com/mod/vpl/view.php?id=5)
 
 ### Lesson 5A
