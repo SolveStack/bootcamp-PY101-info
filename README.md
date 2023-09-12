@@ -15,7 +15,7 @@ Join the #solvestack-bootcamp channel in our Solvestack slack.
 ## Get Access to starting materials
 
 Lessons:
-Navigate to the PY101 course materials: https://drive.google.com/drive/folders/1FcXSrAl7eRY-WcO7_9s9pDFNTeXXWLo3. Request access, and I will add you.
+Navigate to the PY101 course materials: https://drive.google.com/drive/folders/1FcXSrAl7eRY-WcO7_9s9pDFNTeXXWLo3. Request *Viewer* access (not Editor please 😅), and I will add you.
 
 Homework Assignments:
 [Solvestack Portal](https://portal.solvestack.com/course/view.php?id=2)
