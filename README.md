@@ -14,16 +14,55 @@ Join the #solvestack-bootcamp channel in our Solvestack slack.
 
 ## Get Access to starting materials
 
-Lessons:
+### 1. Lessons
 Navigate to the PY101 course materials: https://drive.google.com/drive/folders/1FcXSrAl7eRY-WcO7_9s9pDFNTeXXWLo3. Request *Viewer* access (not Editor please 😅), and I will add you.
 
-Homework Assignments:
+### 2. Homework Assignments
 [Solvestack Portal](https://portal.solvestack.com/course/view.php?id=2)
 
-Send @ana tomboulian your email address, first and last name in DM on slack and I will make a student account for you. Once logged in, you should be able to click on PY101 - Intro to Python and click “Enrol me in this course”. I think “Enrol” is how they spell it in Britain.
+Send @anatomboulian your email address, first and last name in DM on slack and I will make a student account for you. Once logged in, you should be able to click on PY101 - Intro to Python and click “Enrol me in this course”. I think “Enrol” is how they spell it in Britain.
 
 /# TODO: I will have to hunt down the Timezone and Language settings lol.
 
+### 3. Get a Github account
+* Create your account at github.com
+* DM one of the mentors above your github username on Slack
+* Accept the organization invite by going to https://github.com/settings/organizations and clicking Accept
+
+### 4. Create a personal access token
+Go to https://github.com/settings/tokens and add a new "Classic" personal access token.
+
+Give it the following scope:
+
+- [x] repo
+
+Copy this generated token and place it somewhere important and safe, like a password manager.
+
+### 5. Verify your Solvestack Github organization access:
+
+Once you have accepted your organization invite to Solvestack, navigate to the following repository on GitHub:
+https://github.com/SolveStack/bootcamp-PY101-auto-app
+
+If you see a comical 404 page, you must DM to ask one of the mentors above for access to the repository via Slack.
+
+If you see a file/folder structure, README.md and a green Code button on the righthand side, you have the proper access, and may continue.
+
+### 6. Get the Repo downloaded (cloned)
+How to open your terminal: Mac: ⌘ + spacebar, type in Terminal, hit enter Windows: ⊞ Win + X I (or Win + X A for an elevated prompt)
+
+in your terminal or Git Bash if you're in Windows, navigate to your workspace folder in your home directory, something like:
+
+
+output looks like this:
+
+When it asks for your password, give it your Personal Access Token you copied above:
+
+Change directory into the newly cloned repo:
+
+```bash
+cd bootcamp-PY101-auto-app
+git checkout starting-point
+```
 
 ## Install Python 3
 
