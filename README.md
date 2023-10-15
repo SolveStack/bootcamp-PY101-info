@@ -22,50 +22,9 @@ Navigate to the PY101 course materials: https://drive.google.com/drive/folders/1
 
 Send @anatomboulian your email address, first and last name in DM on slack and I will make a student account for you. Once logged in, you should be able to click on PY101 - Intro to Python and click “Enrol me in this course”. I think “Enrol” is how they spell it in Britain.
 
-/# TODO: I will have to hunt down the Timezone and Language settings lol.
+// TODO: I will have to hunt down the Timezone and Language settings lol.
 
-### 3. Get a Github account
-* Create your account at github.com
-* DM one of the mentors above your github username on Slack
-* Accept the organization invite by going to https://github.com/settings/organizations and clicking Accept
-
-### 4. Create a personal access token
-Go to https://github.com/settings/tokens and add a new "Classic" personal access token.
-
-Give it the following scope:
-
-- [x] repo
-
-Copy this generated token and place it somewhere important and safe, like a password manager.
-
-### 5. Verify your Solvestack Github organization access:
-
-Once you have accepted your organization invite to Solvestack, navigate to the following repository on GitHub:
-https://github.com/SolveStack/bootcamp-PY101-auto-app
-
-If you see a comical 404 page, you must DM to ask one of the mentors above for access to the repository via Slack.
-
-If you see a file/folder structure, README.md and a green Code button on the righthand side, you have the proper access, and may continue.
-
-### 6. Get the Repo downloaded (cloned)
-How to open your terminal: Mac: ⌘ + spacebar, type in Terminal, hit enter Windows: ⊞ Win + X I (or Win + X A for an elevated prompt)
-
-in your terminal or Git Bash if you're in Windows, navigate to your workspace folder in your home directory, something like:
-
-
-output looks like this:
-
-When it asks for your password, give it your Personal Access Token you copied above:
-
-Change directory into the newly cloned repo:
-
-```bash
-cd bootcamp-PY101-auto-app
-git checkout starting-point
-```
-
-## Install Python 3
-
+## 3. Install Python 3
 
 On Windows: [Navigate to the Windows Store and click Get Button](https://apps.microsoft.com/store/detail/9P7QFQMJRFP7?hl=en-us&gl=US)
 
@@ -74,13 +33,112 @@ On Mac: [Pyenv](https://akrabat.com/creating-virtual-environments-with-pyenv/)
 On Linux: [Pyenv](https://londonappdeveloper.com/install-and-configure-pyenv-on-linux/)
 
 
-## Run your Python REPL
+## 4. Run your Python REPL
 
 Find where your Python 3 got installed.
 
 Open your terminal, command prompt, or Powershell and run `python` or `python3`.
 
 [Learn about your REPL](https://codewith.mu/en/tutorials/1.0/repl)
+
+
+### 5. Get a Github account
+* Create your account at github.com
+* Find your username by clicking your avatar in the the top righthand corner
+
+![Finding your Github Username](images/finding_your_github_username.png)
+
+* DM one of the mentors above your github username on Slack
+* Accept the organization invite by going to https://github.com/settings/organizations and clicking Accept
+
+### 6. Create a personal access token
+Go to https://github.com/settings/tokens/new and add a new "Classic" personal access token.
+
+Give it the following scope:
+
+- [x] repo
+
+![New Personal Access Token](images/new_personal_access_token.png)
+Copy this generated token and place it somewhere important and safe, [like a password manager](https://1password.com/).
+
+### 7. Verify your Solvestack Github organization access:
+
+Once you have accepted your organization invite to Solvestack, navigate to the following repository on GitHub:
+https://github.com/SolveStack/bootcamp-PY101-auto-app
+
+If you see a comical 404 page like the one below, you must DM to ask one of the mentors above for access to the repository via Slack.
+
+![404 Github Page](images/404_github_page.png)
+
+If you see a file/folder structure, README.md and a green Code button on the righthand side, you have the proper access, and may continue.
+
+
+### 8. Get the Repo downloaded (cloned)
+
+A code repository (repo for short) is a folder containing code housed on servers from Github. There are other source control providers but the most popular one is Github. In order to open the code for use on your machine, you must download the code to physically store on your machine in a folder. As a developer, the most common way to do this is to clone the repository.
+
+Now you must install Git if necessary:
+* On Mac: install Xcode Command Line Tools.
+* On Windows machine: install [Git Bash for Windows](https://gitforwindows.org/).
+
+In order to clone the repository, you must open your Terminal. Here's how to open your terminal with Git access:
+* On Mac: ⌘ + spacebar, type in "Terminal", hit enter
+* On Windows: Windows key or Ctrl + Esc: Open Start menu. Type in "Git Bash", hit enter
+
+
+Once you have opened your terminal with Git access, navigate to your workspace folder in your home directory, something like:
+
+```bash
+cd ~ # change directory into your home folder
+mkdir git # if this is the first time you are creating your workspace folder
+cd git # change directory into your new workspace folder called git
+```
+
+* Clone the repo:
+
+```bash
+git clone https://github.com/SolveStack/bootcamp-PY101-auto-app.git
+```
+
+Output looks like this:
+
+```
+Cloning into 'bootcamp-PY101-auto-app'...
+Username for 'https://github.com': redacted
+Password for 'https://<your-username-shows-here>@github.com':
+```
+
+When it asks for your password, give it your Personal Access Token you copied from Step 4:
+
+```
+remote: Enumerating objects: 158, done.
+remote: Counting objects: 100% (158/158), done.
+remote: Compressing objects: 100% (89/89), done.
+remote: Total 158 (delta 79), reused 136 (delta 64), pack-reused 0
+Receiving objects: 100% (158/158), 31.83 KiB | 434.00 KiB/s, done.
+Resolving deltas: 100% (79/79), done.
+```
+
+If you get a prompt like this one, hit "Install":
+
+![Mac Command Line Tools](images/mac_command_line_tools_prompt.png)
+
+Change directory into the newly cloned repo:
+
+```bash
+cd bootcamp-PY101-auto-app
+git checkout starting-point
+```
+
+### 9. Open the Repository Locally
+
+Download Visual Studio Code if you don't already have it: https://code.visualstudio.com/download
+
+Then, open Visual Studio code, and click Open...
+
+Navigate to the bootcamp-PY101-auto-app folder. Navigate to it like so: home -> git -> bootcamp-PY101-auto-app. Click open.
+
+### 10. Set up your Debugger
 
 ## Syllabus: Intro to Python
 
