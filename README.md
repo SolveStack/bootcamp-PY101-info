@@ -25,7 +25,6 @@ Send @anatomboulian your email address, first and last name in DM on slack and I
 // TODO: I will have to hunt down the Timezone and Language settings lol.
 
 ### 3. Install Python 3
-
 On Windows: [Navigate to the Windows Store and click Get Button](https://apps.microsoft.com/store/detail/9P7QFQMJRFP7?hl=en-us&gl=US)
 
 On Mac: [Pyenv](https://akrabat.com/creating-virtual-environments-with-pyenv/)
@@ -34,7 +33,6 @@ On Linux: [Pyenv](https://londonappdeveloper.com/install-and-configure-pyenv-on-
 
 
 ### 4. Run your Python REPL
-
 Find where your Python 3 got installed.
 
 Open your terminal, command prompt, or Powershell and run `python` or `python3`.
@@ -62,7 +60,6 @@ Give it the following scope:
 Copy this generated token and place it somewhere important and safe, [like a password manager](https://1password.com/).
 
 ### 7. Verify your Solvestack Github organization access:
-
 Once you have accepted your organization invite to Solvestack, navigate to the following repository on GitHub:
 https://github.com/SolveStack/bootcamp-PY101-auto-app
 
@@ -74,7 +71,6 @@ If you see a file/folder structure, README.md and a green Code button on the rig
 
 
 ### 8. Get the Repo downloaded (cloned)
-
 A code repository (repo for short) is a folder containing code housed on servers from Github. There are other source control providers but the most popular one is Github. In order to open the code for use on your machine, you must download the code to physically store on your machine in a folder. As a developer, the most common way to do this is to clone the repository.
 
 Now you must install Git if necessary:
@@ -131,7 +127,6 @@ git checkout starting-point
 ```
 
 ### 9. Open the Repository Locally
-
 Download Visual Studio Code if you don't already have it: https://code.visualstudio.com/download
 
 Then, open Visual Studio code, and click Open...
@@ -139,6 +134,7 @@ Then, open Visual Studio code, and click Open...
 Navigate to the bootcamp-PY101-auto-app folder. Navigate to it like so: home -> git -> bootcamp-PY101-auto-app. Click open.
 
 ### 10. Set up your Debugger
+Open the README.md for bootcamp-PY101-auto-app from here to set up your debugger.
 
 ## Syllabus: Intro to Python
 
