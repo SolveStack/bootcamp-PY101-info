@@ -24,7 +24,7 @@ Send @anatomboulian your email address, first and last name in DM on slack and I
 
 // TODO: I will have to hunt down the Timezone and Language settings lol.
 
-## 3. Install Python 3
+### 3. Install Python 3
 
 On Windows: [Navigate to the Windows Store and click Get Button](https://apps.microsoft.com/store/detail/9P7QFQMJRFP7?hl=en-us&gl=US)
 
@@ -33,7 +33,7 @@ On Mac: [Pyenv](https://akrabat.com/creating-virtual-environments-with-pyenv/)
 On Linux: [Pyenv](https://londonappdeveloper.com/install-and-configure-pyenv-on-linux/)
 
 
-## 4. Run your Python REPL
+### 4. Run your Python REPL
 
 Find where your Python 3 got installed.
 
