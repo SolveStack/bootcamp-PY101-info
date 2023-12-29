@@ -20,9 +20,36 @@ Navigate to the PY101 course materials: https://drive.google.com/drive/folders/1
 ### 2. Homework Assignments
 [Solvestack Portal](https://portal.solvestack.com/course/view.php?id=2)
 
-Send @anatomboulian your email address, first and last name in DM on slack and I will make a student account for you. Once logged in, you should be able to click on PY101 - Intro to Python and click “Enrol me in this course”. I think “Enrol” is how they spell it in Britain.
+Send @anatomboulian your email address, first and last name in DM on slack and I will make a student account for you. You will receive an email with instructions on how to log in as follows:
 
-// TODO: I will have to hunt down the Timezone and Language settings lol.
+```
+Hi Ana Tomboulian,
+
+A new account has been created for you at 'Solvestack'
+and you have been issued with a new temporary password.
+
+Your current login information is now:
+username: ana.student
+password: ***********
+(you will have to change your password
+when you login for the first time)
+
+To start using 'Solvestack', login at
+https://portal.solvestack.com/login/?lang=en_us
+
+In most mail programs, this should appear as a blue link
+which you can just click on. If that doesn't work,
+then cut and paste the address into the address
+line at the top of your web browser window.
+
+Cheers from the 'Solvestack' administrator,
+
+Admin User
+```
+
+Once logged in, click you should be able to click "Site Home" and see a list of available courses. Click on "PY101 - Intro to Python" and click “Enroll me".
+
+You're in!
 
 ### 3. Install Python 3
 On Windows: [Navigate to the Windows Store and click Get Button](https://apps.microsoft.com/store/detail/9P7QFQMJRFP7?hl=en-us&gl=US)
