@@ -23,7 +23,7 @@ Navigate to the PY101 course materials: https://drive.google.com/drive/folders/1
 Send @anatomboulian your email address, first and last name in DM on slack and I will make a student account for you. You will receive an email with instructions on how to log in as follows:
 
 ```
-Hi Ana Tomboulian,
+Hi <Your Name Here>,
 
 A new account has been created for you at 'Solvestack'
 and you have been issued with a new temporary password.
